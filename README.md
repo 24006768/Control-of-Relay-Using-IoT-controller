@@ -1,9 +1,9 @@
-# Control-of-Relay-Using-IoT-controller
+**Control-of-Relay-Using-IoT-controller**
 
 ##  AIM:
 To control the Relay using Arduino controller
 
-## Software required:
+SOFTWARE REQUIRED:
 Arduino IDE </br>
 Proteus
 
@@ -39,9 +39,22 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 
+![3](https://github.com/user-attachments/assets/6b97f362-e126-4486-9007-414556677786)
+
 ## CIRCUIT DIAGRAM:
 
+![4](https://github.com/user-attachments/assets/03fb4737-966c-40b0-b18d-a945b933b82c)
+
+
 ## OUTPUT:
+
+LAMP OFF:
+
+![5](https://github.com/user-attachments/assets/61441332-68da-47f4-abe9-4f45018fa36e)
+
+LAMP ON:
+
+![6](https://github.com/user-attachments/assets/0c02bff6-6312-4fb1-90f5-7ca7f640e33c)
 
 ## RESULT:
 
