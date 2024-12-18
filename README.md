@@ -3,7 +3,7 @@
 ##  AIM:
 To control the Relay using Arduino controller
 
-SOFTWARE REQUIRED:
+## SOFTWARE REQUIRED:
 Arduino IDE </br>
 Proteus
 
